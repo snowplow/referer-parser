@@ -3454,6 +3454,16 @@ search:
     domains:
       - www.startsiden.no
 
+  StepStone:
+    domains:
+      - www.stepstone.de
+      - www.stepstone.at
+      - www.stepstone.be
+      - www.stepstone.fr
+      - www.stepstone.nl
+      - www.stepstone.dk
+      - www.stepstone.se
+
   suche.info:
     parameters:
       - q
